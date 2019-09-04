@@ -1,0 +1,3 @@
+[submodule "FLAP"]
+	path = FLAP
+	url = git@github.com:mathomp4/FLAP.git
